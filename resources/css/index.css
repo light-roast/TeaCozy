@@ -90,6 +90,8 @@ div img {
 
 #featured {
     margin-bottom: 65px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container {
@@ -132,6 +134,7 @@ div img {
 
 #final {
     height: 200px;
+    margin: 0 auto;
 }
 
 #final h5 {
@@ -142,7 +145,4 @@ footer h5 {
     text-align: left;
     margin-left: 20px;
 }
-
-
-
 
