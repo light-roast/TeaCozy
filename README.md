@@ -2,7 +2,7 @@
 
 ## Overview
 
-Tea Cozy is a web development project created as part of the Codecademy Front-End Engineer path. The primary focus was to gain proficiency in using the Flexbox layout model and responsive design.
+Tea Cozy is a web development project created as part of the Codecademy Front-End Engineer path. The primary focus was to gain proficiency in using the Flexbox layout model and responsive design on some components.
 
 ## Project Description
 
